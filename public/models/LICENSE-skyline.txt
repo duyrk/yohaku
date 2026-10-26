@@ -1,0 +1,21 @@
+2005 Nismo Nissan Skyline R34 GTR Z Tune
+Author: Ddiaz Design — https://sketchfab.com/ddiaz-design
+Source: https://sketchfab.com/3d-models/2005-nismo-nissan-skyline-r34-gtr-z-tune-6a0e311f8c404fbaad783ed587014c1d
+License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+SPDX-License-Identifier: CC-BY-NC-SA-4.0
+License URL: https://creativecommons.org/licenses/by-nc-sa/4.0/
+Legal code: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+Upstream description credits: Based on a CSR2 3D model.
+GM25: https://www.facebook.com/p/GM25-100042237200164/
+
+Download mirror: https://github.com/Klmnz96/Nissan-Skyline-Landingpage/blob/main/assets/model/nissan-skyline-model.glb
+Model provenance and license are also embedded in the source GLB asset.extras.
+
+Changes for this local personal project:
+- glTF Transform optimization: weld, join, simplification, texture optimization, Draco compression.
+- Runtime orientation, scale normalization, centering, paint and glass materials.
+- No suggestion of endorsement by Nissan, Nismo, the artist or the upstream project.
+
+The optimized skyline-r34.glb is distributed under the same CC BY-NC-SA 4.0 license.
+This license applies to the 3D model, not to the website's audio or unrelated source code.

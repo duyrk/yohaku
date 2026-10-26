@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.local
+.DS_Store
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+public/audio/*
+!public/audio/.gitkeep
+public/models/ferrari.glb
