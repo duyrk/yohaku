@@ -48,8 +48,8 @@ Recorded from the running app, about 15 seconds. The GIF is silent. A smaller [M
 **Requirements:** Node.js **22.12+** or **20.19+**, and npm. Use a browser with WebGL 2 and hardware acceleration.
 
 ```bash
-git clone https://github.com/duyrk/nissan-r34-skyline-react.git
-cd nissan-r34-skyline-react
+git clone https://github.com/duyrk/yohaku.git
+cd yohaku
 npm ci
 npm run dev
 ```
